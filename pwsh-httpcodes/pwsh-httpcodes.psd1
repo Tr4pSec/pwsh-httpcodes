@@ -30,7 +30,7 @@ CompanyName = 'Unknown'
 Copyright = '(c) Tr4pSec. All rights reserved.'
 
 # Description of the functionality provided by this module
-# Description = ''
+Description = 'A powershell module used to look up HTTP status codes.'
 
 # Minimum version of the PowerShell engine required by this module
 # PowerShellVersion = ''
