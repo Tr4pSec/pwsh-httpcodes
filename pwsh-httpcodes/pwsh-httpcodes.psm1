@@ -1,4 +1,4 @@
-function Search-httpcodes {
+function Search-httpcode {
     <#
   .SYNOPSIS
       Gets your specified http status code.
