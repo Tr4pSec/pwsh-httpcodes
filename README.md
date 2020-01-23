@@ -25,8 +25,8 @@ Import-Module pwsh-httpcodes
 ```powershell
 Get-Command -Module pwsh-httpcodes
 ```
-6. Give it a whirl!
+4. Give it a whirl!
 ```powershell
 Search-httpcode 200
 ```
-7. Enjoy! 🔥
+5. Enjoy! 🔥
