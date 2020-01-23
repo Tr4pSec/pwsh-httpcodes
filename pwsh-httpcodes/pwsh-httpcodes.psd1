@@ -33,7 +33,7 @@ Copyright = '(c) Tr4pSec. All rights reserved.'
 Description = 'A powershell module used to look up HTTP status codes.'
 
 # Minimum version of the PowerShell engine required by this module
-# PowerShellVersion = ''
+PowerShellVersion = '5.0'
 
 # Name of the PowerShell host required by this module
 # PowerShellHostName = ''
@@ -72,7 +72,7 @@ Description = 'A powershell module used to look up HTTP status codes.'
 FunctionsToExport = @()
 
 # Cmdlets to export from this module, for best performance, do not use wildcards and do not delete the entry, use an empty array if there are no cmdlets to export.
-CmdletsToExport = @()
+CmdletsToExport = @(Search-httpcodes)
 
 # Variables to export from this module
 VariablesToExport = '*'
